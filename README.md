@@ -1,2 +1,3 @@
 # FlexP2P
-The data sets used for all simulations in paper "A Flexibility-assisted P2P Energy Trading Framework based on Stochastic ADMM and Bargaining Game Considering Network Constraints and Uncertainties"
+The data sets used for all simulations in paper "A distributed stochastic network-aware framework for flexibility-assisted peer-to-peer
+energy trading based on ADMM and bargaining game"
